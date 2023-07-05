@@ -1,5 +1,4 @@
 # Obstacle-Course-with-Unity
-A minigame I made following Rick Davidson's course on Udemy/GameDev.tv
 
 Youtube link for the demo: https://www.youtube.com/watch?v=gKno-nO_bYI
 
